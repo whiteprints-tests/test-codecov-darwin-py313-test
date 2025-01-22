@@ -1,0 +1,14 @@
+# SPDX-FileCopyrightText: 2025 Romain Brault <mail@romainbrault.com>
+#
+# SPDX-License-Identifier: MIT OR Apache-2.0
+
+required-version = ">=0.5.20"
+cache-keys = [
+    { git = { commit = true, tags = true } },
+    { file = "pyproject.toml" },
+    { file = "uv.toml.py" },
+    { file = "hatch.toml" },
+    { file = "hatch_build.py" },
+    { file = "*.md" },
+    { file = "uv.lock" },
+]
