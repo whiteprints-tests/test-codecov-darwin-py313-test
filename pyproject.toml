@@ -53,6 +53,14 @@ dependencies = [
     "rich-click>=1.8.5",
 ]
 
+urls.changelog = "https://github.com/whiteprints-tests/test-codecov-darwin-py313-test/releases"
+urls.discussions = "https://github.com/whiteprints-tests/test-codecov-darwin-py313-test/discussions"
+urls.documentation = "https://github.com/whiteprints-tests/test-codecov-darwin-py313-test"
+urls.download = "https://github.com/whiteprints-tests/test-codecov-darwin-py313-test/releases"
+urls.homepage = "https://github.com/whiteprints-tests/test-codecov-darwin-py313-test"
+urls.integration = "https://github.com/whiteprints-tests/test-codecov-darwin-py313-test/actions"
+urls.issues = "https://github.com/whiteprints-tests/test-codecov-darwin-py313-test/issues"
+urls.repository = "https://github.com/whiteprints-tests/test-codecov-darwin-py313-test"
 scripts.test-codecov-darwin-py313-test = "test_codecov_darwin_py313_test.cli.entrypoint:test_codecov_darwin_py313_test"
 
 [dependency-groups]

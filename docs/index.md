@@ -19,5 +19,6 @@ Guide <guide>
 Command Line <usage>
 Reference <autoapi/index>
 Licensing <licensing_index>
+Releases <https://github.com/whiteprints-tests/test-codecov-darwin-py313-test/releases>
 Contributing <contributing_index>
 ```
